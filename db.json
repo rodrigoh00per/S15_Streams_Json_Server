@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "title test",
+      "description": "description test",
+      "id": 1
+    },
+    {
+      "title": "BIG BANG",
+      "description": "THIS A BING BANG DESCRIPTION",
+      "id": 2
+    },
+    {
+      "title": "The stream of wcw",
+      "description": "The description of wwe stream",
+      "userId": "107805356393444525265",
+      "id": 3
+    },
+    {
+      "title": "Test of wwe july",
+      "description": "This is the description of july",
+      "userId": "107805356393444525265",
+      "id": 4
+    }
+  ]
+}
